@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const instance = axios.create({
-    baseURL:"https://tinder-backend-facu.herokuapp.com"
+    baseURL:"https://fantasy-solstice-touch.glitch.me/"
 })
 
 export default instance
