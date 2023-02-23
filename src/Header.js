@@ -10,7 +10,7 @@ function Header() {
                 <PersonIcon fontSize="large" className="header__icon"/>
             </IconButton>
             <img 
-                src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png"
+                src="https://w7.pngwing.com/pngs/698/493/png-transparent-tinder-hd-logo-thumbnail.png"
                 className="header__logo"
             />
             <IconButton>
